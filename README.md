@@ -1,16 +1,18 @@
-## Hi there 👋
+# 山﨑隼
 
-<!--
-**ckg24008/ckg24008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+専門学校コンピュータ学科　2年
 
-Here are some ideas to get you started:
+## 🚀 スキル
+- Python / FastAPI
+- データベース (SQLite / SQLAlchemy)
+- HTML / CSS / JavaScript
+- Git / GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 制作物
+- 釣果共有SNSアプリ
+- 戦績管理アプリ
+- 掲示板アプリ
+- 就職活動RAGボット
+
+## 🌱 今後の目標
+クラウド環境でのWebアプリ開発と、実際にユーザーに使ってもらえるサービスの公開！
